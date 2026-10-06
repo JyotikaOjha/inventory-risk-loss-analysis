@@ -4,6 +4,10 @@
 
 An Excel-based inventory analytics dashboard designed to identify inventory losses, monitor stockout risks, and provide management-friendly insights from 25,000+ transaction records.
 
+## 📊 Dashboard Preview
+
+![Inventory Risk & Loss Analysis Dashboard](inventory-dashboard.png)
+
 ## ⭐ Project Overview — STAR
 
 ### 1. Situation
